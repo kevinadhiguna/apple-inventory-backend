@@ -29,3 +29,5 @@ This app has separated front-end and backend repositories. You are required to r
    Open [http://localhost:1337](http://localhost:1337) to view it in the browser.
 
 4) Register first, if you have registered then login. If login was successful, you will be immediately redirected to an admin page.
+
+[![Visits Badge](https://badges.pufler.dev/visits/kevinadhiguna/apple-inventory-backend)](https://github.com/kevinadhiguna)
