@@ -13,6 +13,7 @@ node_modules
 .gitignore
 
 ### Environment variables ###
+.env
 .env.example
 
 ### Docker ###
