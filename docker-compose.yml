@@ -1,0 +1,13 @@
+version: '3.8'
+
+services:
+  strapi-app:
+    build: .
+    container_name: strapi-app_ctr
+    environment:
+      # SQLite database file path
+      DATABASE_FILENAME: .tmp/data.db
+      HOST: 0.0.0.0
+      PORT: 1337
+    ports:
+     - 1337:1337
