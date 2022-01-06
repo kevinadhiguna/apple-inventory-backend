@@ -1,0 +1,30 @@
+##############################################################
+#                                                            #
+# Following files/directories are excluded from docker image #
+#                                                            #
+##############################################################
+
+### Dependencies ###
+node_modules
+
+### Git, GitHub workflows ###
+.git
+.github
+.gitignore
+
+### Environment variables ###
+.env.example
+
+### Docker ###
+docker-compose.yml
+docker-compose.yaml
+
+### Gitpod ###
+.gitpod.yaml
+.gitpod.yml
+
+### Docs/README ###
+README.md
+
+### Production build directory ###
+build
