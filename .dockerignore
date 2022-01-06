@@ -28,3 +28,7 @@ README.md
 
 ### Production build directory ###
 build
+
+### ESLint ###
+.eslintignore
+.eslintrc
