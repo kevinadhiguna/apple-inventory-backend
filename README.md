@@ -30,4 +30,5 @@ This app has separated front-end and backend repositories. You are required to r
 
 4) Register first, if you have registered then login. If login was successful, you will be immediately redirected to an admin page.
 
-[![Visits Badge](https://badges.pufler.dev/visits/kevinadhiguna/apple-inventory-backend)](https://github.com/kevinadhiguna)
+
+![Hello !](https://api.visitorbadge.io/api/VisitorHit?user=kevinadhiguna&repo=apple-inventory-backend&label=thanks%20for%20dropping%20in%20!&labelColor=%23000000&countColor=%23FFFFFF)
