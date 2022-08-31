@@ -23,6 +23,12 @@ git clone https://github.com/kevinadhiguna/apple-inventory-backend.git
 2) Change directory to this project directory in terminal :
 
 ```
+yarn
+```
+
+or
+
+```
 npm install
 ```
 
@@ -36,6 +42,12 @@ Note : Once you have done step 1 and 2, you don't have to do it again when you w
 
 ```
 yarn develop
+```
+
+or
+
+```
+npm run develop
 ```
 
 This will run the app in the development mode.
